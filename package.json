@@ -19,7 +19,7 @@
     "react-mailto": "^0.4.0",
     "react-router-dom": "^5.1.2",
     "swagger-jsdoc": "^4.0.0",
-    "swagger-ui-express": "^4.1.4"
+    "swagger-ui-express": "^4.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
