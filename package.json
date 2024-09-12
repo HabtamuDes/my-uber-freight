@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.3",
     "concurrently": "^4.0.1",
     "config": "^3.3.0",
-    "express": "^4.16.4",
+    "express": "^4.21.0",
     "express-validator": "^6.4.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.6",
