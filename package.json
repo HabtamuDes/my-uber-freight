@@ -18,7 +18,7 @@
     "node-sass": "^4.13.1",
     "react-mailto": "^0.4.0",
     "react-router-dom": "^5.1.2",
-    "swagger-jsdoc": "^4.0.0",
+    "swagger-jsdoc": "^6.0.0",
     "swagger-ui-express": "^4.1.4"
   },
   "devDependencies": {
